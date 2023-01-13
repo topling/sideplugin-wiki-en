@@ -1,0 +1,1 @@
+# Documentation is on the [wiki](https://github.com/topling/sideplugin-wiki-en/wiki).
